@@ -1,0 +1,8 @@
+{
+  "name": "navo interview assistant",
+  "description": "Generate structured, equitable interview kits from job descriptions with automated bias audits, 4/5ths rule adverse impact checks, and strict approval gating before export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
